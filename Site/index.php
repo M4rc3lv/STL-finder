@@ -25,7 +25,7 @@
      <div class="tooltip">
       <input list="hist" type="text" id="pad" name="pad" placeholder="Pad naar folder">
       <span class="tooltiptext">Toets Enter om te bevestigen</span>
-     </div><!-- button title="Omhoog" id="folderup"><i class="mdi mdi-arrow-up"></i></button -->
+     </div><button title="Recurse" id="recurse"><i class="mdi mdi-folder-search-outline"></i></button -->
      <datalist id="hist"></datalist>
     </div>
     <div class="w3-half"><div class="w3-right">

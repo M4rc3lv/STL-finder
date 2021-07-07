@@ -1,0 +1,78 @@
+.m {
+ width:1100px;
+ margin:0 auto;
+}
+.borb {
+ border-bottom:solid 1px purple;
+}
+input {
+ font-family:monospace;
+}
+.padding {
+ padding-top:8px;
+ padding-bottom:8px;
+}
+#pad {
+ border:solid 1px grey;
+ width:100%;
+}
+
+#hist {
+ margin-top:8px;
+}
+
+#result {
+ clear:both;
+}
+.FName {
+ font-family:monospace;
+ font-size:0.8em;
+ padding-left:8px;
+}
+
+.stl {
+ float:left;
+ width:200px;
+ height:196px;
+ border:solid 2px purple;
+ margin-right:16px;
+ margin-top:16px;
+ overflow:hidden;
+}
+
+.NORIGHT {
+ margin-right:0px!important;
+}
+.P1 {
+ padding-bottom:4px;
+}
+
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+
+  width:calc(100% - 40px);
+  padding-right:8px;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 240px;
+  background-color: gray;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+
+  width: 240px;
+  top: calc(100% - 2em);
+  left: calc(100% + 76px);
+  margin-left: -90px;
+}
+
