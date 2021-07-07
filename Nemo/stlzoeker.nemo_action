@@ -1,0 +1,10 @@
+[Nemo Action]
+Name=STL-zoeker
+Comment=Open de STL-zoeker
+Quote=double
+Exec=firefox -new-tab http://localhost:8099/?pad=%F
+Selection = any
+Extensions=dir;
+Icon-Name=applications-graphics
+
+
