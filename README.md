@@ -7,3 +7,7 @@ It works by a local PHP instance (php -S localhost:8099) to show the files in a 
 
 ![afbeelding](https://user-images.githubusercontent.com/19297663/124710307-ddd85800-defc-11eb-8457-7f79a9c5d06e.png)
 
+**Installation**
+Put the contents of Site somewhere and start it with a local PHP server or edit (and then use) the shell script in the Nemo folder.
+The site depends on an OpenScad executable (named OpenSCAD-2021.01-x86_64.AppImage), so put that executable in the root of the site.
+
